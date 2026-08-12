@@ -1,33 +1,28 @@
-# Anexă: portofoliu tehnic și dovezi verificabile
+# Anexa: portofoliu tehnic si dovezi verificabile
 
-**Ofertant:** Lucian Danileico  
-**Procedură:** Front-End / Python junior  
-**Scop:** dovezi verificabile prin cod sursă public, documentație și demonstrații funcționale.
+**Ofertant:** Lucian Danileico
+**Procedura:** Front End / Python junior
+**Snapshot depus:** `submission-21663739-2026-08-12`
+**Distinctie temporala:** imbunatatirile si demo-urile noi sunt post-depunere.
 
-## Proiecte principale
+## Dovezi principale
 
-1. [Workplace Safety Workflow](https://github.com/luciandanileico94-dev/workplace-safety-demo) — aplicație Next.js / TypeScript pentru fluxuri de sarcini și termene.
-2. [Tender Intelligence](https://github.com/luciandanileico94-dev/tender-intelligence-demo) — aplicație cu componentă web și componentă Python pentru procesarea unui set demonstrativ de date.
-3. [Thumbnail Brief Studio](https://github.com/luciandanileico94-dev/thumbnail-brief-studio-demo) — aplicație full-stack TypeScript pentru fluxul de creare și evaluare a brief-urilor.
+### Farm Registry Web + Python Tools
 
-## Proiecte complementare
+[Repository Web](https://github.com/luciandanileico94-dev/farm-registry-web) si [repository Python](https://github.com/luciandanileico94-dev/farm-registry-python-tools) formeaza impreuna demonstratia: client React, respectiv serviciu FastAPI REST. Contractul urmarit este `GET /parcels`.
 
-4. [Learning Platform](https://github.com/luciandanileico94-dev/learning-platform-demo) — aplicație React / TypeScript cu interfață responsive și modele de domeniu tipizate.
-5. [Field Mobile](https://github.com/luciandanileico94-dev/field-mobile-demo) — aplicație React Native / TypeScript pentru lucru în teren.
+Stack-ul Web este React, TypeScript, React Query, Axios REST, Leaflet/GeoJSON si Vitest/RTL. Stack-ul Python este Python, FastAPI, Pydantic, Shapely/pyproj, REST/OpenAPI si pytest. Dovezi: [README Web](https://github.com/luciandanileico94-dev/farm-registry-web#readme), [README Python](https://github.com/luciandanileico94-dev/farm-registry-python-tools#readme), [PR #1 Web](https://github.com/luciandanileico94-dev/farm-registry-web/pull/1) si [PR #1 Python](https://github.com/luciandanileico94-dev/farm-registry-python-tools/pull/1).
 
-## Matricea competențelor solicitate
+### Farm Registry Mobile
 
-| Competență | Dovezi verificabile |
-| --- | --- |
-| React.js / Next.js | Workplace Safety Workflow; Thumbnail Brief Studio; Learning Platform |
-| JavaScript (ES6+) și TypeScript | toate cele cinci proiecte |
-| React Native | Field Mobile |
-| Python | Tender Intelligence: scripturi de procesare a datelor și serviciu API |
-| API-uri REST | Tender Intelligence, Workplace Safety Workflow, Thumbnail Brief Studio și Field Mobile |
-| State management | Workplace Safety Workflow și Learning Platform: React Query / Context și stări asincrone tipizate |
-| Testare automată | teste unitare și de integrare documentate în README-urile proiectelor; rulare în CI |
-| Git colaborativ | ramuri de lucru, pull request-uri, verificări automate și convenții de revizuire în fiecare depozit |
+[Repository Mobile](https://github.com/luciandanileico94-dev/farm-registry-mobile) foloseste React Native, Expo, TypeScript, AsyncStorage, Jest/RNTL si Expo web preview. Dovezi: [README](https://github.com/luciandanileico94-dev/farm-registry-mobile#readme) si [PR #1](https://github.com/luciandanileico94-dev/farm-registry-mobile/pull/1).
 
-## Protecția datelor și transparență
+## Dovezi complementare, post-depunere
 
-Proiectele sunt ediții publice curate ale unor proiecte personale. Sunt excluse credențiale, date cu caracter personal, datele clienților, arhivele de producție și istoricul privat. Datele din demonstrații sunt sintetice sau anonimizate.
+- [Workplace Safety](https://github.com/luciandanileico94-dev/workplace-safety-demo): Next.js, React, TypeScript, Vitest/RTL. [README](https://github.com/luciandanileico94-dev/workplace-safety-demo#readme) si [PR #1](https://github.com/luciandanileico94-dev/workplace-safety-demo/pull/1).
+- [Tender Intelligence](https://github.com/luciandanileico94-dev/tender-intelligence-demo): React, TypeScript, Redux Toolkit, Python REST, Vitest/RTL, Playwright. [README](https://github.com/luciandanileico94-dev/tender-intelligence-demo#readme) si [PR #1](https://github.com/luciandanileico94-dev/tender-intelligence-demo/pull/1).
+- [Learning Platform](https://github.com/luciandanileico94-dev/learning-platform-demo): React, TypeScript, React Context, Express REST, Vitest/RTL, Playwright. [README](https://github.com/luciandanileico94-dev/learning-platform-demo#readme) si [PR #1](https://github.com/luciandanileico94-dev/learning-platform-demo/pull/1).
+
+## Transparenta
+
+Branches, pull requests si verificari automate pot fi consultate in repository-urile publice. Nu este revendicata o revizie independenta. Nu sunt revendicate experienta de stat, sisteme de identitate institutionale, clienti in productie sau cod privat. Demo-urile folosesc date sintetice ori anonimizate; nu includ credențiale sau date personale.

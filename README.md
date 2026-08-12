@@ -1,27 +1,24 @@
-# Portofoliu tehnic — Front End & Python Developer (junior)
+# Portofoliu tehnic Front End & Python
 
-Acesta este indexul public al proiectelor prezentate pentru evaluarea tehnică.
+Indexul public al proiectelor si al dovezilor tehnice: [pagina statica](index.html).
 
-## Proiecte principale cu cod sursă accesibil
+## Stare si delimitare
 
-| Proiect | Competențe demonstrate |
-| --- | --- |
-| [Farm Registry Web](https://github.com/luciandanileico94-dev/farm-registry-web) | React, TypeScript, React Query, REST, Leaflet/GeoJSON, testare automată |
-| [Farm Registry Python Tools](https://github.com/luciandanileico94-dev/farm-registry-python-tools) | Python, FastAPI, Pydantic, Shapely, REST/OpenAPI, teste automate |
-| [Farm Registry Mobile](https://github.com/luciandanileico94-dev/farm-registry-mobile) | React Native, Expo, TypeScript, interfață mobile-first |
+Snapshot-ul repository-ului depus la termen este tag-ul `submission-21663739-2026-08-12`. Orice imbunatatire ulterioara si demo nou este marcat **post-depunere** si nu este prezentat ca stare de la termen.
 
-Proiectele Web și Python formează împreună o demonstrație front-end + Python: clientul React consumă endpoint-ul `GET /parcels` expus de serviciul FastAPI. Codul este separat în două repository-uri pentru claritate și rulare independentă.
+## Proiecte si matrice tehnica
 
-## Alte proiecte personale
+| Proiect | Stare | Stack factual |
+| --- | --- | --- |
+| [Farm Registry Web](https://github.com/luciandanileico94-dev/farm-registry-web) | Depus | React, TypeScript, React Query, Axios REST, Leaflet/GeoJSON, Vitest/RTL |
+| [Farm Registry Python Tools](https://github.com/luciandanileico94-dev/farm-registry-python-tools) | Depus | Python, FastAPI, Pydantic, Shapely/pyproj, REST/OpenAPI, pytest |
+| [Farm Registry Mobile](https://github.com/luciandanileico94-dev/farm-registry-mobile) | Depus | React Native, Expo, TypeScript, AsyncStorage, Jest/RNTL, Expo web preview |
+| [Workplace Safety](https://github.com/luciandanileico94-dev/workplace-safety-demo) | Post-depunere | Next.js, React, TypeScript, Vitest/RTL |
+| [Tender Intelligence](https://github.com/luciandanileico94-dev/tender-intelligence-demo) | Post-depunere | React, TypeScript, Redux Toolkit, Python REST, Vitest/RTL, Playwright |
+| [Learning Platform](https://github.com/luciandanileico94-dev/learning-platform-demo) | Post-depunere | React, TypeScript, React Context, Express REST, Vitest/RTL, Playwright |
 
-Următoarele sunt proiecte complementare / ediții publice în curs de documentare. Linkurile sunt stabile; proiectele nu sunt prezentate ca fiind finalizate.
+Web si Python formeaza impreuna o demonstratie front-end + FastAPI REST: clientul React foloseste `GET /parcels`, endpoint expus de serviciul FastAPI. Repository-urile sunt separate pentru claritate.
 
-- [Workplace Safety Demo](https://github.com/luciandanileico94-dev/workplace-safety-demo)
-- [Tender Intelligence Demo](https://github.com/luciandanileico94-dev/tender-intelligence-demo)
-- [Thumbnail Brief Studio Demo](https://github.com/luciandanileico94-dev/thumbnail-brief-studio-demo)
-- [Learning Platform Demo](https://github.com/luciandanileico94-dev/learning-platform-demo)
-- [Field Mobile Demo](https://github.com/luciandanileico94-dev/field-mobile-demo)
+## Dovezi Git si date
 
-## Protecția datelor
-
-Proiectele publice folosesc exclusiv date sintetice sau anonimizate. Nu sunt publicate credențiale, secrete de producție, date cu caracter personal, materiale ale clienților sau istoricul repository-urilor private.
+Sunt disponibile branches, pull requests si verificari automate. Sunt indicate PR #1 acolo unde este cunoscut; nu este revendicata o revizie independenta. Proiectele publice folosesc date sintetice sau anonimizate. Nu sunt publicate secrete, date personale ori materiale de productie.
