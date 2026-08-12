@@ -9,19 +9,19 @@
 
 ### Farm Registry Web + Python Tools
 
-[Repository Web](https://github.com/luciandanileico94-dev/farm-registry-web) si [repository Python](https://github.com/luciandanileico94-dev/farm-registry-python-tools) formeaza impreuna demonstratia: client React, respectiv serviciu FastAPI REST. Contractul urmarit este `GET /parcels`.
+[Repository Web](https://github.com/luciandanileico94-dev/farm-registry-web), [README Web](https://github.com/luciandanileico94-dev/farm-registry-web#readme) si [demo live Web](https://farm-registry-web.vercel.app), impreuna cu [repository Python](https://github.com/luciandanileico94-dev/farm-registry-python-tools), formeaza demonstratia: client React, respectiv serviciu FastAPI REST. Contractul urmarit este `GET /parcels`.
 
 Stack-ul Web este React, TypeScript, React Query, Axios REST, Leaflet/GeoJSON si Vitest/RTL. Stack-ul Python este Python, FastAPI, Pydantic, Shapely/pyproj, REST/OpenAPI si pytest. Dovezi: [README Web](https://github.com/luciandanileico94-dev/farm-registry-web#readme), [README Python](https://github.com/luciandanileico94-dev/farm-registry-python-tools#readme), [PR #1 Web](https://github.com/luciandanileico94-dev/farm-registry-web/pull/1) si [PR #1 Python](https://github.com/luciandanileico94-dev/farm-registry-python-tools/pull/1).
 
 ### Farm Registry Mobile
 
-[Repository Mobile](https://github.com/luciandanileico94-dev/farm-registry-mobile) foloseste React Native, Expo, TypeScript, AsyncStorage, Jest/RNTL si Expo web preview. Dovezi: [README](https://github.com/luciandanileico94-dev/farm-registry-mobile#readme) si [PR #1](https://github.com/luciandanileico94-dev/farm-registry-mobile/pull/1).
+[Repository Mobile](https://github.com/luciandanileico94-dev/farm-registry-mobile), [README](https://github.com/luciandanileico94-dev/farm-registry-mobile#readme) si [demo live](https://farm-registry-mobile.vercel.app) foloseste React Native, Expo, TypeScript, AsyncStorage, Jest/RNTL si Expo web preview. Dovezi: [PR #1](https://github.com/luciandanileico94-dev/farm-registry-mobile/pull/1).
 
 ## Dovezi complementare, post-depunere
 
-- [Workplace Safety](https://github.com/luciandanileico94-dev/workplace-safety-demo): Next.js, React, TypeScript, Vitest/RTL. [README](https://github.com/luciandanileico94-dev/workplace-safety-demo#readme) si [PR #1](https://github.com/luciandanileico94-dev/workplace-safety-demo/pull/1).
-- [Tender Intelligence](https://github.com/luciandanileico94-dev/tender-intelligence-demo): React, TypeScript, Redux Toolkit, Python REST, Vitest/RTL, Playwright. [README](https://github.com/luciandanileico94-dev/tender-intelligence-demo#readme) si [PR #1](https://github.com/luciandanileico94-dev/tender-intelligence-demo/pull/1).
-- [Learning Platform](https://github.com/luciandanileico94-dev/learning-platform-demo): React, TypeScript, React Context, Express REST, Vitest/RTL, Playwright. [README](https://github.com/luciandanileico94-dev/learning-platform-demo#readme) si [PR #1](https://github.com/luciandanileico94-dev/learning-platform-demo/pull/1).
+- [Workplace Safety](https://github.com/luciandanileico94-dev/workplace-safety-demo): Next.js, React, TypeScript, Vitest/RTL. [README](https://github.com/luciandanileico94-dev/workplace-safety-demo#readme), [demo live](https://workplace-safety-demo.vercel.app) si [PR #1](https://github.com/luciandanileico94-dev/workplace-safety-demo/pull/1).
+- [Tender Intelligence](https://github.com/luciandanileico94-dev/tender-intelligence-demo): React, TypeScript, Redux Toolkit, Python REST, Vitest/RTL, Playwright. [README](https://github.com/luciandanileico94-dev/tender-intelligence-demo#readme), [demo live](https://tender-intelligence-demo.vercel.app) si [PR #1](https://github.com/luciandanileico94-dev/tender-intelligence-demo/pull/1).
+- [Learning Platform](https://github.com/luciandanileico94-dev/learning-platform-demo): React, TypeScript, React Context, Express REST, Vitest/RTL, Playwright. [README](https://github.com/luciandanileico94-dev/learning-platform-demo#readme), [demo live](https://learning-platform-demo-pi.vercel.app) si [PR #1](https://github.com/luciandanileico94-dev/learning-platform-demo/pull/1).
 
 ## Transparenta
 
