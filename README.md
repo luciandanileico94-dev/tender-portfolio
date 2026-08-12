@@ -1,19 +1,27 @@
-# Portfolio — Front-End / Python junior tender
+# Portofoliu tehnic — Front End & Python Developer (junior)
 
-This is the public portfolio index for the technical evaluation. Every link below is a stable public GitHub repository; each project has its own README, source code, test instructions and a live-demo link where applicable.
+Acesta este indexul public al proiectelor prezentate pentru evaluarea tehnică.
 
-| Project | Purpose | Main evidence |
-| --- | --- | --- |
-| [Workplace Safety Workflow](https://github.com/luciandanileico94-dev/workplace-safety-demo) | Next.js workflow UI | React / Next.js, TypeScript, REST, React Query, tests |
-| [Tender Intelligence](https://github.com/luciandanileico94-dev/tender-intelligence-demo) | Python + web data dashboard | Python, REST, JavaScript / TypeScript, testing |
-| [Thumbnail Brief Studio](https://github.com/luciandanileico94-dev/thumbnail-brief-studio-demo) | Full-stack content workflow | React, TypeScript, REST, tests |
-| [Learning Platform](https://github.com/luciandanileico94-dev/learning-platform-demo) | Responsive learning interface | React, TypeScript, state management, tests |
-| [Field Mobile](https://github.com/luciandanileico94-dev/field-mobile-demo) | Mobile field-work app | React Native, TypeScript, REST, testing |
+## Proiecte principale cu cod sursă accesibil
 
-## Important note on data protection
+| Proiect | Competențe demonstrate |
+| --- | --- |
+| [Farm Registry Web](https://github.com/luciandanileico94-dev/farm-registry-web) | React, TypeScript, React Query, REST, Leaflet/GeoJSON, testare automată |
+| [Farm Registry Python Tools](https://github.com/luciandanileico94-dev/farm-registry-python-tools) | Python, FastAPI, Pydantic, Shapely, REST/OpenAPI, teste automate |
+| [Farm Registry Mobile](https://github.com/luciandanileico94-dev/farm-registry-mobile) | React Native, Expo, TypeScript, interfață mobile-first |
 
-These repositories are public, curated portfolio editions of personal projects. They use synthetic or anonymised data only. No credentials, production secrets, personal data, client material or private repository history is published.
+Proiectele Web și Python formează împreună o demonstrație front-end + Python: clientul React consumă endpoint-ul `GET /parcels` expus de serviciul FastAPI. Codul este separat în două repository-uri pentru claritate și rulare independentă.
 
-## Technology coverage
+## Alte proiecte personale
 
-Together, the projects demonstrate React.js / Next.js, JavaScript ES6+, TypeScript, React Native, Python, REST API integration, state management, automated testing, and Git-based branch / pull-request workflow.
+Următoarele sunt proiecte complementare / ediții publice în curs de documentare. Linkurile sunt stabile; proiectele nu sunt prezentate ca fiind finalizate.
+
+- [Workplace Safety Demo](https://github.com/luciandanileico94-dev/workplace-safety-demo)
+- [Tender Intelligence Demo](https://github.com/luciandanileico94-dev/tender-intelligence-demo)
+- [Thumbnail Brief Studio Demo](https://github.com/luciandanileico94-dev/thumbnail-brief-studio-demo)
+- [Learning Platform Demo](https://github.com/luciandanileico94-dev/learning-platform-demo)
+- [Field Mobile Demo](https://github.com/luciandanileico94-dev/field-mobile-demo)
+
+## Protecția datelor
+
+Proiectele publice folosesc exclusiv date sintetice sau anonimizate. Nu sunt publicate credențiale, secrete de producție, date cu caracter personal, materiale ale clienților sau istoricul repository-urilor private.
