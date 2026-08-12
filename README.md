@@ -6,6 +6,14 @@ Indexul public al proiectelor si al dovezilor tehnice: [pagina statica](index.ht
 
 Snapshot-ul repository-ului depus la termen este tag-ul `submission-21663739-2026-08-12`. Orice imbunatatire ulterioara si demo nou este marcat **post-depunere** si nu este prezentat ca stare de la termen.
 
+## Dovezi actualizate post-depunere
+
+Aceste linkuri sunt **post-depunere / updated evidence** și nu fac parte din materialul depus la termen. Ele trimit direct la documentația existentă din ramurile `main` ale proiectelor Farm Registry.
+
+- Web: [Arhitectură](https://github.com/luciandanileico94-dev/farm-registry-web/blob/main/docs/architecture.md) · [Matrice de dovezi](https://github.com/luciandanileico94-dev/farm-registry-web/blob/main/docs/evidence-matrix.md)
+- Mobile: [Arhitectură](https://github.com/luciandanileico94-dev/farm-registry-mobile/blob/main/docs/architecture.md) · [Matrice de dovezi](https://github.com/luciandanileico94-dev/farm-registry-mobile/blob/main/docs/evidence-matrix.md)
+- Python: [Arhitectură](https://github.com/luciandanileico94-dev/farm-registry-python-tools/blob/main/docs/architecture.md) · [Matrice de dovezi](https://github.com/luciandanileico94-dev/farm-registry-python-tools/blob/main/docs/evidence-matrix.md)
+
 ## Proiecte si matrice tehnica
 
 | Proiect | Stare | Live | Stack factual | Dovezi verificabile |
