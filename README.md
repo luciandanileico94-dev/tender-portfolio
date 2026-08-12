@@ -23,4 +23,4 @@ Web si Python formeaza impreuna o demonstratie front-end + FastAPI REST: clientu
 
 ## Dovezi Git si date
 
-Sunt disponibile branches, pull requests si verificari automate. Sunt indicate PR #1 acolo unde este cunoscut; nu este revendicata o revizie independenta. Proiectele publice folosesc date sintetice sau anonimizate. Nu sunt publicate secrete, date personale ori materiale de productie.
+Sunt disponibile branches si verificari automate; nu este revendicata o revizie independenta. Proiectele publice folosesc date sintetice sau anonimizate. Nu sunt publicate secrete, date personale ori materiale de productie.
