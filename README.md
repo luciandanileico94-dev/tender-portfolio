@@ -8,11 +8,11 @@ Snapshot-ul repository-ului depus la termen este tag-ul `submission-21663739-202
 
 ## Proiecte si matrice tehnica
 
-| Proiect | Stare | Stack factual |
-| --- | --- | --- |
-| [Farm Registry Web](https://github.com/luciandanileico94-dev/farm-registry-web) | Depus | React, TypeScript, React Query, Axios REST, Leaflet/GeoJSON, Vitest/RTL |
-| [Farm Registry Python Tools](https://github.com/luciandanileico94-dev/farm-registry-python-tools) | Depus | Python, FastAPI, Pydantic, Shapely/pyproj, REST/OpenAPI, pytest |
-| [Farm Registry Mobile](https://github.com/luciandanileico94-dev/farm-registry-mobile) | Depus | React Native, Expo, TypeScript, AsyncStorage, Jest/RNTL, Expo web preview |
+| Proiect | Stare | Stack factual | Dovezi verificabile |
+| --- | --- | --- | --- |
+| [Farm Registry Web](https://github.com/luciandanileico94-dev/farm-registry-web) | Depus | React, TypeScript, React Query, Axios REST, Leaflet/GeoJSON, Vitest/RTL | [Arhitectură](https://github.com/luciandanileico94-dev/farm-registry-web/blob/main/docs/architecture.md) · [Matrice](https://github.com/luciandanileico94-dev/farm-registry-web/blob/main/docs/evidence-matrix.md) |
+| [Farm Registry Python Tools](https://github.com/luciandanileico94-dev/farm-registry-python-tools) | Depus | Python, FastAPI, Pydantic, Shapely/pyproj, REST/OpenAPI, pytest | [Arhitectură](https://github.com/luciandanileico94-dev/farm-registry-python-tools/blob/main/docs/architecture.md) · [Matrice](https://github.com/luciandanileico94-dev/farm-registry-python-tools/blob/main/docs/evidence-matrix.md) |
+| [Farm Registry Mobile](https://github.com/luciandanileico94-dev/farm-registry-mobile) | Depus | React Native, Expo, TypeScript, AsyncStorage, Jest/RNTL, Expo web preview | [Arhitectură](https://github.com/luciandanileico94-dev/farm-registry-mobile/blob/main/docs/architecture.md) · [Matrice](https://github.com/luciandanileico94-dev/farm-registry-mobile/blob/main/docs/evidence-matrix.md) |
 | [Workplace Safety](https://github.com/luciandanileico94-dev/workplace-safety-demo) | Post-depunere | Next.js, React, TypeScript, Vitest/RTL |
 | [Tender Intelligence](https://github.com/luciandanileico94-dev/tender-intelligence-demo) | Post-depunere | React, TypeScript, Redux Toolkit, Python REST, Vitest/RTL, Playwright |
 | [Learning Platform](https://github.com/luciandanileico94-dev/learning-platform-demo) | Post-depunere | React, TypeScript, React Context, Express REST, Vitest/RTL, Playwright |
@@ -23,4 +23,4 @@ Web si Python formeaza impreuna o demonstratie front-end + FastAPI REST: clientu
 
 ## Dovezi Git si date
 
-Sunt disponibile branches si verificari automate; nu este revendicata o revizie independenta. Proiectele publice folosesc date sintetice sau anonimizate. Nu sunt publicate secrete, date personale ori materiale de productie.
+Fiecare proiect depus are acum o arhitectură și o matrice de dovezi care leagă afirmația de fișier, simbol și comandă de verificare. Sunt disponibile branches, pull requests și verificări automate. Proiectele publice folosesc date sintetice sau anonimizate. Nu sunt publicate secrete, date personale ori materiale de producție.
