@@ -8,14 +8,14 @@ Snapshot-ul repository-ului depus la termen este tag-ul `submission-21663739-202
 
 ## Proiecte si matrice tehnica
 
-| Proiect | Stare | Stack factual | Dovezi verificabile |
-| --- | --- | --- | --- |
-| [Farm Registry Web](https://github.com/luciandanileico94-dev/farm-registry-web) | Depus | React, TypeScript, React Query, Axios REST, Leaflet/GeoJSON, Vitest/RTL | [Arhitectură](https://github.com/luciandanileico94-dev/farm-registry-web/blob/main/docs/architecture.md) · [Matrice](https://github.com/luciandanileico94-dev/farm-registry-web/blob/main/docs/evidence-matrix.md) |
-| [Farm Registry Python Tools](https://github.com/luciandanileico94-dev/farm-registry-python-tools) | Depus | Python, FastAPI, Pydantic, Shapely/pyproj, REST/OpenAPI, pytest | [Arhitectură](https://github.com/luciandanileico94-dev/farm-registry-python-tools/blob/main/docs/architecture.md) · [Matrice](https://github.com/luciandanileico94-dev/farm-registry-python-tools/blob/main/docs/evidence-matrix.md) |
-| [Farm Registry Mobile](https://github.com/luciandanileico94-dev/farm-registry-mobile) | Depus | React Native, Expo, TypeScript, AsyncStorage, Jest/RNTL, Expo web preview | [Arhitectură](https://github.com/luciandanileico94-dev/farm-registry-mobile/blob/main/docs/architecture.md) · [Matrice](https://github.com/luciandanileico94-dev/farm-registry-mobile/blob/main/docs/evidence-matrix.md) |
-| [Workplace Safety](https://github.com/luciandanileico94-dev/workplace-safety-demo) | Post-depunere | Next.js, React, TypeScript, Vitest/RTL |
-| [Tender Intelligence](https://github.com/luciandanileico94-dev/tender-intelligence-demo) | Post-depunere | React, TypeScript, Redux Toolkit, Python REST, Vitest/RTL, Playwright |
-| [Learning Platform](https://github.com/luciandanileico94-dev/learning-platform-demo) | Post-depunere | React, TypeScript, React Context, Express REST, Vitest/RTL, Playwright |
+| Proiect | Stare | Live | Stack factual | Dovezi verificabile |
+| --- | --- | --- | --- | --- |
+| [Farm Registry Web](https://github.com/luciandanileico94-dev/farm-registry-web) | Depus | [Deschide](https://farm-registry-web.vercel.app) | React, TypeScript, React Query, Axios REST, Leaflet/GeoJSON, Vitest/RTL | [Arhitectură](https://github.com/luciandanileico94-dev/farm-registry-web/blob/main/docs/architecture.md) · [Matrice](https://github.com/luciandanileico94-dev/farm-registry-web/blob/main/docs/evidence-matrix.md) |
+| [Farm Registry Python Tools](https://github.com/luciandanileico94-dev/farm-registry-python-tools) | Depus | [API](https://farm-registry-api-demo.onrender.com) · [Docs](https://farm-registry-api-demo.onrender.com/docs) | Python, FastAPI, Pydantic, Shapely/pyproj, REST/OpenAPI, pytest | [Arhitectură](https://github.com/luciandanileico94-dev/farm-registry-python-tools/blob/main/docs/architecture.md) · [Matrice](https://github.com/luciandanileico94-dev/farm-registry-python-tools/blob/main/docs/evidence-matrix.md) |
+| [Farm Registry Mobile](https://github.com/luciandanileico94-dev/farm-registry-mobile) | Depus | [Deschide](https://farm-registry-mobile.vercel.app) | React Native, Expo, TypeScript, AsyncStorage, Jest/RNTL, Expo web preview | [Arhitectură](https://github.com/luciandanileico94-dev/farm-registry-mobile/blob/main/docs/architecture.md) · [Matrice](https://github.com/luciandanileico94-dev/farm-registry-mobile/blob/main/docs/evidence-matrix.md) |
+| [Workplace Safety](https://github.com/luciandanileico94-dev/workplace-safety-demo) | Post-depunere | [Deschide](https://workplace-safety-demo.vercel.app) | Next.js, React, TypeScript, Vitest/RTL |
+| [Tender Intelligence](https://github.com/luciandanileico94-dev/tender-intelligence-demo) | Post-depunere | [Deschide](https://tender-intelligence-demo.vercel.app) | React, TypeScript, Redux Toolkit, Python REST, Vitest/RTL, Playwright |
+| [Learning Platform](https://github.com/luciandanileico94-dev/learning-platform-demo) | Post-depunere | [Deschide](https://learning-platform-demo-pi.vercel.app) | React, TypeScript, React Context, Express REST, Vitest/RTL, Playwright |
 
 Demo-uri live stabile: [Farm Registry Web](https://farm-registry-web.vercel.app), [Farm Registry Mobile](https://farm-registry-mobile.vercel.app), [Workplace Safety](https://workplace-safety-demo.vercel.app), [Tender Intelligence](https://tender-intelligence-demo.vercel.app) si [Learning Platform](https://learning-platform-demo-pi.vercel.app). Acestea sunt suprafete UI; nu este revendicata o publicare live a API-ului Python.
 
