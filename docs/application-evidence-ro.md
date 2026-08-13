@@ -19,7 +19,7 @@ Stack-ul Web este React, TypeScript, React Query, Axios REST, Leaflet/GeoJSON si
 
 ## Dovezi complementare, post-depunere
 
-- [Workplace Safety](https://github.com/luciandanileico94-dev/workplace-safety-demo): Next.js, React, TypeScript, Vitest/RTL. [README](https://github.com/luciandanileico94-dev/workplace-safety-demo#readme) si [demo live](https://workplace-safety-demo.vercel.app).
+- [Workplace Safety](https://github.com/luciandanileico94-dev/workplace-safety-demo): Next.js, React, TypeScript, Vitest/RTL. [README](https://github.com/luciandanileico94-dev/workplace-safety-demo#readme) si [demo live](https://luciandanileico94-dev.github.io/workplace-safety-demo/).
 - [Tender Intelligence](https://github.com/luciandanileico94-dev/tender-intelligence-demo): React, TypeScript, Redux Toolkit, Python REST, Vitest/RTL, Playwright. [README](https://github.com/luciandanileico94-dev/tender-intelligence-demo#readme) si [demo live](https://tender-intelligence-demo.vercel.app).
 - [Learning Platform](https://github.com/luciandanileico94-dev/learning-platform-demo): React, TypeScript, React Context, Express REST, Vitest/RTL, Playwright. [README](https://github.com/luciandanileico94-dev/learning-platform-demo#readme) si [demo live](https://learning-platform-demo-pi.vercel.app).
 
