@@ -1,6 +1,6 @@
 # Portofoliu tehnic Front End & Python
 
-Indexul public al proiectelor si al dovezilor tehnice: [pagina statica](index.html).
+Indexul public al proiectelor si al dovezilor tehnice: [pagina statica live](https://luciandanileico94-dev.github.io/tender-portfolio/) · [sursa](index.html).
 
 ## Stare si delimitare
 
